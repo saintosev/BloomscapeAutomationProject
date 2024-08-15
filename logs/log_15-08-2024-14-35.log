@@ -1,0 +1,77 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 14:35:34.321582
+Start name method: authorization_from_main_page
+
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 14:35:44.310850
+Start name method: returning_to_main_page
+
+End time: 2024-08-15 14:35:49.031215
+End name method: returning_to_main_page
+URL: https://bloomscape.com/
+
+-----
+End time: 2024-08-15 14:35:49.042551
+End name method: authorization_from_main_page
+URL: https://bloomscape.com/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 14:35:49.043550
+Start name method: choose_section_shop_all_plants
+
+End time: 2024-08-15 14:36:03.592526
+End name method: choose_section_shop_all_plants
+URL: https://bloomscape.com/shop/shop-all-plants/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 14:36:03.593524
+Start name method: select_bromeliad_pineapple_plant
+
+End time: 2024-08-15 14:36:09.895173
+End name method: select_bromeliad_pineapple_plant
+URL: https://bloomscape.com/product/bromeliad-pineapple/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 14:36:09.895712
+Start name method: add_product_to_the_shopping_cart
+
+End time: 2024-08-15 14:36:11.216688
+End name method: add_product_to_the_shopping_cart
+URL: https://bloomscape.com/product/bromeliad-pineapple/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 14:36:13.516008
+Start name method: to_checkout_page
+
+End time: 2024-08-15 14:36:23.308690
+End name method: to_checkout_page
+URL: https://bloomscape.com/checkout/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 14:36:23.308690
+Start name method: checkout
+
+End time: 2024-08-15 14:36:35.822783
+End name method: checkout
+URL: https://bloomscape.com/checkout/
+
+-----

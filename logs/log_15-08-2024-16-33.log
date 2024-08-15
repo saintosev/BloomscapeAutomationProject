@@ -1,0 +1,88 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 16:34:34.998388
+Start name method: authorization_from_main_page
+
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 16:35:31.021478
+Start name method: returning_to_main_page
+
+End time: 2024-08-15 16:35:57.969101
+End name method: returning_to_main_page
+URL: https://bloomscape.com/
+
+-----
+End time: 2024-08-15 16:35:57.977582
+End name method: authorization_from_main_page
+URL: https://bloomscape.com/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 16:35:57.978589
+Start name method: choose_section_shop_all_plants
+
+End time: 2024-08-15 16:36:44.601358
+End name method: choose_section_shop_all_plants
+URL: https://bloomscape.com/shop/shop-all-plants/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 16:36:44.602373
+Start name method: select_filters_set_1
+
+End time: 2024-08-15 16:37:30.010827
+End name method: select_filters_set_1
+URL: https://bloomscape.com/shop/shop-all-plants/?fwp_light_level=medium&fwp_plant_size=medium&fwp_difficulty=no-fuss&fwp_pet_friendly=yes&fwp_air_cleaner=yes&fwp_price=50-99.99
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 16:37:30.011844
+Start name method: select_bromeliad_pineapple_plant
+
+End time: 2024-08-15 16:38:07.399368
+End name method: select_bromeliad_pineapple_plant
+URL: https://bloomscape.com/product/bromeliad-pineapple/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 16:38:07.400378
+Start name method: add_product_to_the_shopping_cart
+
+End time: 2024-08-15 16:38:07.616564
+End name method: add_product_to_the_shopping_cart
+URL: https://bloomscape.com/product/bromeliad-pineapple/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 16:38:10.309606
+Start name method: to_checkout_page
+
+End time: 2024-08-15 16:38:42.699444
+End name method: to_checkout_page
+URL: https://bloomscape.com/checkout/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-15 16:38:42.700444
+Start name method: checkout
+
+End time: 2024-08-15 16:39:29.427761
+End name method: checkout
+URL: https://bloomscape.com/checkout/
+
+-----

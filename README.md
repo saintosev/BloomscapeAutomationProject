@@ -23,10 +23,17 @@ This package stores tests that include methods from the Pages package. There is 
 4. Utilities
     This package contains modules for project logging and a driver for the Chrome browser. 
 5. Logs, Screen, Test_results
-    The Logs, Screen, and Test_results folders store logs, screenshots, and Allure report results saved after each test run.
+    The 'Logs', 'Screen', and 'Test_results' folders store logs, screenshots, and Allure report results saved after each test run.
 
 ## Test description
 Right now, the project includes one smoke test that covers the E2E user path: authorization, selecting a product category, setting filters, selecting an item and adding it to the cart, filling out additional information for payment and shipping. The test is accompanied by checks for correct url, product name, product price on different pages of the site, and verifies the success of user actions.
+
+## Prerequisites
+- Python 3.x
+- Pytest
+- Selenium
+- ChromeDriver
+- Allure
 
 ## Installation and Setup
 1. Clone the repository:

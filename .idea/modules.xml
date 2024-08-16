@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BloomscapeAutomationTestingProject.iml" filepath="$PROJECT_DIR$/.idea/BloomscapeAutomationTestingProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BloomscapeAutomationProject.iml" filepath="$PROJECT_DIR$/.idea/BloomscapeAutomationProject.iml" />
     </modules>
   </component>
 </project>

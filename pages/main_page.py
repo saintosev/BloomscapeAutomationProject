@@ -8,10 +8,6 @@ from utilities.logger import Logger
 
 class MainPage(Base):
 
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.driver = driver
-
     # Locators
     account_button = "//a[@href='https://bloomscape.com/my-account/']"
     cart_menu_button = ("//li[@id='mega-menu-item-308525']//button[@type='button' and @class='cart-toggle menu__cart' "

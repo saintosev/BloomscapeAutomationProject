@@ -6,10 +6,6 @@ from base.base_class import Base
 
 class ShopPage(Base):
 
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.driver = driver
-
     # Locators
     product_type_filter = "//div[text()='Product Type']"
     indoor_light_filter = "//div[text()='Indoor Light']"

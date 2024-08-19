@@ -1,0 +1,38 @@
+
+Enter system
+Start a new test suite
+Test #1
+You're on the Main page
+Click the 'Account' button
+Value word 'Log In' is OK
+You're on the Login page
+Enter the email
+Enter the password
+Click the 'Log in' button
+Value word 'Hello helagof163@biowey.com (not helagof163@biowey.com? Log out)' is OK
+Authorization was successful
+Click the 'Return to Main page' button
+URL is correct
+You're back on the Main page
+Find the 'Shop All Plants' category
+Click the 'Shop All Plants' category
+URL is correct
+You're in the 'Shop All Plants' category
+Expand the 'Indoor Light' filter
+Choose the 'Partial/Bright Indirect' indoor light
+Checkbox is selected
+Expand the 'Plant Size' filter
+Choose the 'MD (1-2 FT)' plant size
+Checkbox is selected
+Expand the 'Difficulty' filter
+Choose the 'No-Fuss' difficulty
+Checkbox is not selected
+Expand the 'Pet Friendly' filter
+Choose 'Yes'
+Checkbox is not selected
+Expand the 'Air Cleaner' Filter
+Choose 'Yes'
+Checkbox is not selected
+
+Finish test
+Exit system

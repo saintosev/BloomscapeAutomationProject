@@ -5,9 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fac1287-8fc3-4044-9960-a7f16085d566" name="Changes" comment="a slight improvement to the assert function">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/log_16-08-2024-13-57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/log_16-08-2024-14-04.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/log_16-08-2024-14-09.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/log_19-08-2024-16-57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/screenshot 16-08-2024_14-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen/screenshot 16-08-2024_14-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/08732b8d-9686-4857-a6d7-1136ad2e8383-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/0a4357d4-cddd-406d-aa55-4d1f211b9c98-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/52710c3b-c412-4d16-99f0-400fa6285d75-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/757596d8-e0e0-4037-9677-b4e712b9f395-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/84fced56-33f9-4286-95c0-2cd2812f5aaa-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/861c7f86-c086-4a0b-87ac-aa7a27988958-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/9f58327e-259d-4582-9443-dacd32556c56-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/c16aebce-4fe3-49d8-b957-eabe6ef2a94d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/d7a2f1a4-9761-4757-92f3-55cb9e8d3fd8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/f098d5b1-314f-4faa-922e-e9b62f823d04-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_results/fca4ea7f-7af9-4adf-a811-81969287474f-attachment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/base_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/base_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/checkout_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/checkout_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product_card_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product_card_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/shop_all_plants_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shop_all_plants_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/shop_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shop_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/your_cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/your_cart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723800940733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="a slight improvement to the assert function">
+      <option name="closed" value="true" />
+      <created>1723805372109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723805372109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

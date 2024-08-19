@@ -1,3 +1,4 @@
+import os
 from datetime import datetime
 from selenium.webdriver import ActionChains
 from faker import Faker
@@ -80,6 +81,9 @@ class Base:
 
         now_date = datetime.now().strftime("%d-%m-%Y_%H-%M")
         name_screenshot = f"screenshot {now_date}.png"
-        self.driver.save_screenshot("C:\\Users\\saintosev\\PycharmProjects\\BloomscapeAutomationProject\\screen\\" +
-                                    name_screenshot)
+
+        project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        screenshot_path = os.path.join(project_dir, "screen", name_screenshot)
+        self.driver.save_screenshot(screenshot_path)
+
         print("A screenshot was taken.")

@@ -1,0 +1,39 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-16 13:58:28.835467
+Start name method: authorization_from_main_page
+
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-16 13:59:27.284742
+Start name method: returning_to_main_page
+
+End time: 2024-08-16 13:59:53.938912
+End name method: returning_to_main_page
+URL: https://bloomscape.com/
+
+-----
+End time: 2024-08-16 13:59:53.945838
+End name method: authorization_from_main_page
+URL: https://bloomscape.com/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-16 13:59:53.947254
+Start name method: choose_section_shop_all_plants
+
+End time: 2024-08-16 14:00:57.690355
+End name method: choose_section_shop_all_plants
+URL: https://bloomscape.com/shop/shop-all-plants/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-08-16 14:00:57.690901
+Start name method: select_filters_set_1
+

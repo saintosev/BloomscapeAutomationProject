@@ -12,7 +12,6 @@ class ShopAllPlantsPage(Base):
 
     def __init__(self, driver):
         super().__init__(driver)
-        self.driver = driver
         self.shop_page = ShopPage(driver)
 
     # Locators

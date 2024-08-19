@@ -12,7 +12,6 @@ class YourCart(Base):
 
     def __init__(self, driver):
         super().__init__(driver)
-        self.driver = driver
         self.shop_all_plants_page = ShopAllPlantsPage(driver)
 
     # Locators

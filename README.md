@@ -5,9 +5,9 @@ The project is based on the principles of Object Oriented Programming and the Pa
 The Pytest framework is used. 
 ## Project Structure
 
-1. Base 
+1. Base  
     This Python Package includes the base_method.py module, which contains a class with base methods. These are universal methods that are used repeatedly later. The module contains the following methods: get page url, check current page url against expected url, check received value against expected value, scroll to the desired element, get product information, generate data, get screenshot.
-2. Pages
+2. Pages  
     This package stores modules of all pages that participate in the tests. At the moment they are:
     - the authorization page; 
     - the main page of the site;
@@ -18,15 +18,22 @@ The Pytest framework is used.
 
     Each of these pages stores element locators, methods to work with them, and methods that include the steps that are performed on that page. 
 
-3. Tests
+3. Tests  
 This package stores tests that include methods from the Pages package. There is currently one smoke test stored here. 
 4. Utilities
     This package contains modules for project logging and a driver for the Chrome browser. 
-5. Logs, Screen, Test_results
-    The Logs, Screen, and Test_results folders store logs, screenshots, and Allure report results saved after each test run.
+5. Logs, Screen, Test_results  
+    The 'Logs', 'Screen', and 'Test_results' folders store logs, screenshots, and Allure report results saved after each test run.
 
 ## Test description
 Right now, the project includes one smoke test that covers the E2E user path: authorization, selecting a product category, setting filters, selecting an item and adding it to the cart, filling out additional information for payment and shipping. The test is accompanied by checks for correct url, product name, product price on different pages of the site, and verifies the success of user actions.
+
+## Prerequisites
+- Python 3.x
+- Pytest
+- Selenium
+- ChromeDriver
+- Allure
 
 ## Installation and Setup
 1. Clone the repository:
